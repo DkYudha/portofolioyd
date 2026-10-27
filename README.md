@@ -1,86 +1,90 @@
-# 🎓 Web Portofolio Mahasiswa Baru S1 Teknik Informatika (Angkatan 2026)
+# Web Portofolio Mahasiswa Teknik Informatika 2026
 
-Website portofolio yang bersih, sederhana, modern, dan responsif yang dirancang khusus untuk **Mahasiswa Baru (Maba) angkatan 2026** program studi S1 Teknik Informatika sebagai sarana **personal branding**, memamerkan kemampuan awal, mata kuliah semester awal, dan membuka jejaring pertemanan serta kelompok belajar (*study group*).
+Website portofolio pribadi yang saya buat sebagai mahasiswa baru S1 Teknik Informatika angkatan 2026. Website ini menjadi tempat untuk memperkenalkan diri, menampilkan kemampuan yang sedang saya pelajari, dan menyimpan hasil proyek selama kuliah.
 
----
+Proyek ini juga menjadi salah satu latihan saya untuk memahami cara membuat website menggunakan HTML, CSS, dan JavaScript.
 
-## ✨ Fitur & Penyesuaian Mahasiswa Baru 2026
+## Tentang Proyek
 
-1. **Personal Branding Mahasiswa Baru (Hero Section)**
-   - Lencana status: *"Mahasiswa Baru S1 Teknik Informatika • Angkatan 2026"*.
-   - Informasi kartu profil: Status Maba 2026, Semester 1 (Awal), Fokus Dasar Pemrograman & Web, Kesiapan Aktif Belajar & Kolaborasi.
-   - Narasi ramah, santun, dan menunjukkan semangat tinggi dalam belajar koding dari dasar.
+Website ini dirancang dengan tampilan sederhana dan responsif agar nyaman digunakan melalui laptop maupun smartphone. Di dalamnya terdapat informasi tentang latar belakang pendidikan, minat di bidang teknologi, kemampuan dasar, dan beberapa proyek latihan.
 
-2. **Pendidikan Terakhir (Education Background)**
-   - Garis waktu (*timeline*) yang akurat:
-     - **S1 Teknik Informatika (Angkatan 2026 - Sekarang)**: Semester 1, dengan daftar mata kuliah semester awal (Pengantar TI, Dasar Pemrograman & Logika Algoritma C++/Python, Matematika Diskrit, Kalkulus I, Basis Data Dasar, Etika Profesi).
-     - **SMA / SMK (Lulusan 2026)**: Peminatan MIPA / RPL / TKJ dengan fokus logika matematika dan sains.
-     - **Pembelajaran Mandiri (2026)**: Kursus pengenalan dasar pemrograman web, HTML/CSS, dan pengenalan Git.
+### Fitur Website
 
-3. **Bidang yang Diminati (Fields of Interest Maba)**
-   - Fokus rasa ingin tahu pemula:
-     - 🌐 *Web Development* (Dasar Frontend & Desain Web)
-     - 🧠 *Logika Algoritma & Problem Solving* (Melatih Computational Thinking)
-     - 🤖 *Kecerdasan Buatan (AI) & Inovasi* (Tren AI & Rasa Penasaran Masa Depan)
-     - 🎨 *UI/UX Design* (Wireframing Figma & Konsep Kenyamanan Pengguna)
-     - 💻 *Rekayasa Perangkat Lunak Dasar* (Siklus Pembuatan Software)
-     - 🤝 *Komunitas IT & Kolaborasi Belajar* (Relasi Kampus & Diskusi Bareng)
+- **Profil pribadi** — berisi perkenalan singkat dan status sebagai mahasiswa baru Teknik Informatika angkatan 2026.
+- **Pendidikan** — menampilkan latar belakang pendidikan dan perjalanan belajar.
+- **Minat** — berisi bidang teknologi yang ingin saya pelajari lebih lanjut.
+- **Skills** — menampilkan kemampuan yang sedang dipelajari, mulai dari pemrograman hingga penggunaan tools.
+- **Proyek** — tempat untuk menampilkan hasil latihan dan proyek selama belajar.
+- **Kontak** — memudahkan orang lain untuk menghubungi saya melalui WhatsApp atau email.
+- **Dark mode** — pilihan tampilan terang dan gelap.
+- **Responsive design** — menyesuaikan tampilan dengan ukuran layar perangkat.
+- **Navigasi interaktif** — menu yang memudahkan pengunjung berpindah antarbagian halaman dan tombol untuk kembali ke atas.
 
-4. **Kemampuan yang Realistis & Membanggakan (Skills)**
-   - Bahasa: HTML5 & CSS3 (Dasar Kuat), C++ / Python (Mata Kuliah Semester 1), JavaScript (Pemula), Logika & Pseudocode.
-   - Perkakas: Tailwind CSS, VS Code, Git & GitHub dasar, Figma dasar.
-   - Soft Skills Maba: Rasa Ingin Tahu Tinggi (Curiosity), Growth Mindset, Kerja Sama Kelompok, Disiplin Belajar.
+## Teknologi yang Digunakan
 
-5. **Prestasi & Pengalaman Awal**
-   - Lolos seleksi masuk S1 Teknik Informatika Angkatan 2026.
-   - Sertifikat kelas pemula pemrograman web (kursus mandiri).
-   - Prestasi/keaktifan organisasi sekolah (SMA/SMK 2025/2026).
-   - Partisipasi aktif dalam kegiatan Pengenalan Kehidupan Kampus (PKKMB 2026).
+Teknologi yang digunakan dalam pembuatan website ini meliputi:
 
-6. **Proyek Latihan Mandiri (Showcase Maba)**
-   - Website Portofolio Mahasiswa Baru (proyek ini).
-   - Program Konsol Mini Algoritma & Kalkulator Matematika (C++ / JS).
-   - Prototipe Desain UI/UX Aplikasi Panduan Mahasiswa Baru di Figma.
+- HTML5 untuk menyusun struktur halaman.
+- CSS3 untuk mengatur tampilan, tata letak, dan animasi.
+- JavaScript untuk menambahkan fitur interaktif.
+- Git dan GitHub untuk mengelola serta menyimpan kode proyek.
 
-7. **Navigasi yang Mulus (Smooth Navigation & ScrollSpy)**
-   - Sticky navbar transparan dengan efek kaca (*glassmorphism*).
-   - ScrollSpy dinamis: penanda menu aktif otomatis saat halaman discroll.
-   - Menu drawer mobile yang mulus.
-   - Tombol *Back-to-Top* mengambang.
-   - Tombol *Dark Mode / Light Mode* dengan memori *localStorage*.
+## Bidang yang Saya Minati
 
-8. **Formulir Kontak Siap Hubungi**
-   - Terintegrasi langsung dengan nomor WhatsApp dan Email aktif Anda:
-     - **WhatsApp**: `+62 851-8230-1681`
-     - **Email**: `yudhadika.8030@gmail.com`
-   - Pilihan topik ramah mahasiswa: *Diskusi & Belajar Bareng (Study Group)*, *Kenalan / Relasi Kampus*, *Informasi Komunitas IT*, dll.
+Sebagai mahasiswa baru, saya masih dalam tahap mempelajari dasar-dasar pemrograman dan teknologi. Beberapa bidang yang menarik bagi saya antara lain:
 
----
+- Web Development
+- Logika Algoritma dan Problem Solving
+- Artificial Intelligence (AI)
+- UI/UX Design
+- Rekayasa Perangkat Lunak
+- Komunitas IT dan belajar bersama
 
-## 📁 Struktur Berkas
+## Proyek Latihan
 
-```
+Beberapa proyek yang ingin saya kembangkan dan tampilkan dalam portofolio ini adalah:
+
+1. **Website Portofolio Pribadi** — proyek website yang sedang saya kerjakan untuk belajar HTML, CSS, dan JavaScript.
+2. **Program Kalkulator dan Algoritma Sederhana** — latihan pemrograman menggunakan C++ atau JavaScript.
+3. **Desain Aplikasi Mahasiswa Baru** — latihan membuat rancangan antarmuka aplikasi menggunakan Figma.
+
+Proyek-proyek tersebut merupakan bagian dari proses belajar saya. Seiring bertambahnya pengalaman, saya berharap dapat mengembangkan proyek yang lebih baik dan menambahkan hasil karya baru ke dalam portofolio ini.
+
+## Struktur Folder
+
+```text
 portfolio-website/
-├── index.html                   # Berkas utama halaman web portofolio
-├── README.md                    # Dokumentasi & panduan
+├── index.html
+├── README.md
 └── assets/
     ├── css/
-    │   └── style.css            # Desain kustom, tema gelap/terang & animasi
+    │   └── style.css
     ├── js/
-    │   └── main.js              # Logika interaktif (ScrollSpy, WhatsApp, Theme, Form)
+    │   └── main.js
     └── images/
-        ├── profile.jpg          # Foto profil utama Anda
-        └── WhatsApp Image ...   # Cadangan berkas foto asli
+        └── profile.jpg
 ```
 
+## Cara Menjalankan
+
+Website ini dapat dijalankan langsung melalui browser tanpa perlu menggunakan backend.
+
+1. Clone repository ini atau unduh file proyeknya.
+2. Buka folder `portfolio-website`.
+3. Buka file `index.html` menggunakan browser seperti Google Chrome, Microsoft Edge, atau Mozilla Firefox.
+
+Jika ingin mengedit kode, kamu bisa menggunakan Visual Studio Code atau editor kode lainnya.
+
+## Kontak
+
+Jika ingin berkenalan, berdiskusi tentang pemrograman, atau belajar bersama, silakan hubungi saya melalui:
+
+- **WhatsApp:** +62 851-8230-1681
+- **Email:** yudhadika.8030@gmail.com
+
 ---
 
-## 🚀 Cara Menjalankan Website
+Website ini masih dalam tahap pengembangan dan akan terus saya perbarui seiring dengan proses belajar saya di Teknik Informatika.
 
-1. Buka folder `portfolio-website`.
-2. Klik dua kali pada berkas `index.html` untuk langsung membukanya di browser (Google Chrome, Microsoft Edge, Mozilla Firefox, dll).
-3. Halaman web langsung berjalan lancar tanpa perlu server backend atau instalasi software tambahan!
+Terima kasih sudah berkunjung ke repository saya!
 
----
-
-*Semangat menjalani perkuliahan di Teknik Informatika Angkatan 2026! 🚀*

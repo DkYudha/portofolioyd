@@ -87,4 +87,3 @@ Jika ingin berkenalan, berdiskusi tentang pemrograman, atau belajar bersama, sil
 Website ini masih dalam tahap pengembangan dan akan terus saya perbarui seiring dengan proses belajar saya di Teknik Informatika.
 
 Terima kasih sudah berkunjung ke repository saya!
-
